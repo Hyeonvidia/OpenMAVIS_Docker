@@ -1,0 +1,14 @@
+bag: /datasets/Hilti2022/rosbags/exp18_corridor_lower_gallery_2.bag  duration 109.4 s
+  cam0 <- /alphasense/cam0/image_raw (4376 msgs)
+  cam1 <- /alphasense/cam1/image_raw (4376 msgs)
+  cam2 <- /alphasense/cam2/image_raw (4376 msgs)
+  cam3 <- /alphasense/cam3/image_raw (4376 msgs)
+  cam4 <- /alphasense/cam4/image_raw (4376 msgs)
+  imu0 <- /alphasense/imu (43656 msgs)
+  5000 images
+  10000 images
+  15000 images
+  cam1: 4376 frames, missing vs cam0: 0, extra: 0
+  cam3: 4376 frames, missing vs cam0: 0, extra: 0
+  cam4: 4376 frames, missing vs cam0: 0, extra: 0
+wrote 17504 images; timestamps.txt: 4376 of 4376 cam0 frames (dropped 0 not present in every exported camera)

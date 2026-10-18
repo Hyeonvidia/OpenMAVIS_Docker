@@ -1,0 +1,13 @@
+bag: /hilti/rosbags/exp14_basement_2.bag  duration 74.0 s
+  cam0 <- /alphasense/cam0/image_raw (2960 msgs)
+  cam1 <- /alphasense/cam1/image_raw (2960 msgs)
+  cam2 <- /alphasense/cam2/image_raw (2960 msgs)
+  cam3 <- /alphasense/cam3/image_raw (2960 msgs)
+  cam4 <- /alphasense/cam4/image_raw (2959 msgs)
+  imu0 <- /alphasense/imu (29539 msgs)
+  5000 images
+  10000 images
+wrote 11839 images; timestamps.txt from cam0 (2960 frames)
+  cam1: 2960 frames, missing vs cam0: 0, extra: 0
+  cam3: 2960 frames, missing vs cam0: 0, extra: 0
+  cam4: 2959 frames, missing vs cam0: 1, extra: 0

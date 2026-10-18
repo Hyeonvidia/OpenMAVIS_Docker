@@ -1,0 +1,16 @@
+== exp14_basement_2 multi r1  19:25:21
+   exit=0 wall_s=110.2
+         rmse	0.087978
+skip exp14_basement_2 stereo r1
+== exp14_basement_2 multi r2  19:27:12
+   exit=0 wall_s=110.3
+         rmse	0.085627
+== exp14_basement_2 stereo r2  19:29:03
+   exit=0 wall_s=95.0
+         rmse	0.115564
+== exp14_basement_2 multi r3  19:30:38
+   exit=0 wall_s=111.9
+         rmse	0.118019
+== exp14_basement_2 stereo r3  19:32:30
+   exit=0 wall_s=96.2
+         rmse	0.135488

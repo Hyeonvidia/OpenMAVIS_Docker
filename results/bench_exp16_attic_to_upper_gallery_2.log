@@ -1,0 +1,19 @@
+== exp16_attic_to_upper_gallery_2 multi r1  19:55:55
+   exit=0 wall_s=299.3
+         rmse	0.100211
+== exp16_attic_to_upper_gallery_2 stereo r1  20:00:54
+/workspace/tools/run_hilti.sh: line 40:    26 Aborted                    "$BIN" "$SRC/Vocabulary/ORBvoc.txt" "$YAML" "$SEQDIR" "$DATA/timestamps.txt" > run.log 2>&1
+   exit=134 wall_s=64.7
+== exp16_attic_to_upper_gallery_2 multi r2  20:01:59
+   exit=0 wall_s=296.9
+         rmse	0.151116
+== exp16_attic_to_upper_gallery_2 stereo r2  20:06:57
+/workspace/tools/run_hilti.sh: line 40:    24 Aborted                    "$BIN" "$SRC/Vocabulary/ORBvoc.txt" "$YAML" "$SEQDIR" "$DATA/timestamps.txt" > run.log 2>&1
+   exit=134 wall_s=64.8
+== exp16_attic_to_upper_gallery_2 multi r3  20:08:02
+/workspace/tools/run_hilti.sh: line 40:    22 Segmentation fault         "$BIN" "$SRC/Vocabulary/ORBvoc.txt" "$YAML" "$SEQDIR" "$DATA/timestamps.txt" > run.log 2>&1
+   exit=139 wall_s=296.5
+         rmse	0.115138
+== exp16_attic_to_upper_gallery_2 stereo r3  20:12:59
+/workspace/tools/run_hilti.sh: line 40:    24 Aborted                    "$BIN" "$SRC/Vocabulary/ORBvoc.txt" "$YAML" "$SEQDIR" "$DATA/timestamps.txt" > run.log 2>&1
+   exit=134 wall_s=64.6

@@ -1,0 +1,85 @@
+num_seq = 1
+Loading images for sequence 0...LOADED!
+Loading IMU for sequence 0...LOADED!
+
+-------
+
+ORB-SLAM3 Copyright (C) 2017-2020 Carlos Campos, Richard Elvira, Juan J. Gómez, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+ORB-SLAM2 Copyright (C) 2014-2016 Raúl Mur-Artal, José M.M. Montiel and Juan D. Tardós, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: Multi-Inertial
+Loading settings from /opt/OpenMAVIS/Examples/Multi-Inertial/HiltiChallenge2022.yaml
+	-Loaded camera 1
+	-Loaded camera 2
+	-Loaded camera 3 & 4
+Camera.newHeight optional parameter does not exist...
+Camera.newWidth optional parameter does not exist...
+	-Loaded image info
+IMU.InsertKFsWhenLost optional parameter does not exist...
+	-Loaded IMU calibration
+	-Loaded ORB settings
+	-Loaded viewer settings
+System.LoadAtlasFromFile optional parameter does not exist...
+System.SaveAtlasToFile optional parameter does not exist...
+	-Loaded Atlas settings
+System.thFarPoints optional parameter does not exist...
+	-Loaded misc parameters
+----------------------------------
+SLAM settings: 
+	-Camera 1 parameters (Kannala-Brandt): [ 352.891357421875 352.78472900390625 346.97323608398438 271.81100463867188 -0.043389324098825455 0.0031076404266059399 -0.0037427055649459362 0.00077771866926923394 ]
+	-Camera 2 parameters (Kannala-Brandt): [ 351.80099487304688 351.62808227539062 367.80130004882812 254.80079650878906 -0.043384455144405365 0.0041968715377151966 -0.0038000422064214945 0.00060328113613650203 ]
+	-Camera 3 parameters (Kannala-Brandt): [ 349.15902709960938 349.195068359375 342.44964599609375 259.79183959960938 -0.038573119789361954 -0.0015927619533613324 0.00026012482703663409 -0.00040930666727945209 ]
+	-Camera 4 parameters (Kannala-Brandt): [ 350.4224853515625 350.427001953125 364.45587158203125 266.17584228515625 -0.037908345460891724 -0.00012037903798045591 -0.0011713947169482708 4.004926813649945e-05 ]
+	-Original image size: [ 720 , 540 ]
+	-Current image size: [ 720 , 540 ]
+	-Sequence FPS: 30
+	-Stereo baseline: 0.10914573073387146
+	-Stereo depth threshold : 40
+	-Camera 1 overlapping area: [ 0 , 720 ]
+	-Camera 2 overlapping area: [ 0 , 720 ]
+	-Camera 3 overlapping area: [ 0 , 720 ]
+	-Camera 4 overlapping area: [ 0 , 720 ]
+	-Features per image: 500
+	-ORB scale factor: 1.2000000476837158
+	-ORB number of scales: 8
+	-Initial FAST threshold: 15
+	-Min FAST threshold: 7
+
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+Initialization of Atlas from scratch 
+Creation of new map with id: 0
+Creation of new map with last KF id: 0
+Seq. Name: 
+There are 4 cameras in the atlas
+Camera 0 is fisheye
+Camera 2 is fisheye
+Camera 4 is fisheye
+Camera 6 is fisheye
+not IMU meas
+not IMU meas
+First KF:0; Map init KF:0
+New Map created with 69 points
+Starting the Viewer
+start VIBA 1
+end VIBA 1
+start VIBA 2
+end VIBA 2
+Shutdown
+mpLocalMapper is not finished
+mpLoopCloser is not finished
+
+Saving trajectory to CameraTrajectory.txt ...
+There are 1 maps in the atlas
+  Map 0 has 94 KFs
+
+End of saving trajectory to CameraTrajectory.txt ...
+
+Saving keyframe trajectory to KeyFrameTrajectory.txt ...
+QObject::killTimer: Timers cannot be stopped from another thread
+QObject::~QObject: Timers cannot be stopped from another thread

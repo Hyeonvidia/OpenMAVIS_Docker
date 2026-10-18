@@ -1,0 +1,18 @@
+== exp18_corridor_lower_gallery_2 multi r1  19:39:31
+   exit=0 wall_s=162.9
+         rmse	0.126265
+== exp18_corridor_lower_gallery_2 stereo r1  19:42:14
+   exit=0 wall_s=143.4
+         rmse	0.225189
+== exp18_corridor_lower_gallery_2 multi r2  19:44:38
+   exit=0 wall_s=162.7
+         rmse	0.145639
+== exp18_corridor_lower_gallery_2 stereo r2  19:47:21
+   exit=0 wall_s=143.3
+         rmse	0.185560
+== exp18_corridor_lower_gallery_2 multi r3  19:49:45
+   exit=0 wall_s=162.9
+         rmse	0.104072
+== exp18_corridor_lower_gallery_2 stereo r3  19:52:28
+   exit=0 wall_s=143.0
+         rmse	0.154691

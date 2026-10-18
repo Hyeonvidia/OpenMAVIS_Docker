@@ -1,0 +1,17 @@
+bag: /datasets/Hilti2022/rosbags/exp16_attic_to_upper_gallery_2.bag  duration 200.4 s
+  cam0 <- /alphasense/cam0/image_raw (8012 msgs)
+  cam1 <- /alphasense/cam1/image_raw (8013 msgs)
+  cam2 <- /alphasense/cam2/image_raw (8013 msgs)
+  cam3 <- /alphasense/cam3/image_raw (8013 msgs)
+  cam4 <- /alphasense/cam4/image_raw (8013 msgs)
+  imu0 <- /alphasense/imu (79958 msgs)
+  5000 images
+  10000 images
+  15000 images
+  20000 images
+  25000 images
+  30000 images
+  cam1: 8013 frames, missing vs cam0: 0, extra: 1
+  cam3: 8013 frames, missing vs cam0: 0, extra: 1
+  cam4: 8013 frames, missing vs cam0: 0, extra: 1
+wrote 32051 images; timestamps.txt: 8012 of 8012 cam0 frames (dropped 0 not present in every exported camera)

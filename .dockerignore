@@ -1,0 +1,2 @@
+# build context is docker/ only; kept for safety if the root is ever used
+results/

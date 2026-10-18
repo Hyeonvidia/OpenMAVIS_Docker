@@ -1,0 +1,11 @@
+[93mInitialized new /root/.evo/settings.json[39m
+APE w.r.t. translation part (m)
+(with SE(3) Umeyama alignment)
+       max	0.262660
+      mean	0.088239
+    median	0.074515
+       min	0.023277
+      rmse	0.100211
+       sse	20.094457
+       std	0.047499
+estimated poses: 8010
