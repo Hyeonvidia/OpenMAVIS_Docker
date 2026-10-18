@@ -70,6 +70,9 @@ nothing appears on screen. To watch a run, use `run_gui.sh`:
 
 ![The viewer through XQuartz, Hilti exp14, 4 cameras](docs/media/viewer_xquartz.png)
 
+*Camera images: [Hilti SLAM Challenge 2022](https://hilti-challenge.com/dataset-2022.html),
+exp14_basement_2, licensed [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).*
+
 - The map and the four camera images open side by side in one 1684×770
   window (`GUI_SCREEN` changes the size). The window closes when the run ends,
   as upstream does.
